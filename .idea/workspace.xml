@@ -2,28 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b235245-eb45-43f6-b7d7-ad7c220d4848" name="Default" comment="提交初版Leecode代码">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/leeCodeTran.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sbt.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leeCodeTran/enos/lee01/Solution.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leeCodeTran/enos/lee02/ListNode.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leeCodeTran/enos/lee03/Solution.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leeCodeTran/enos/lee09/Solution.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leeCodeTran/enos/test/LesTest.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leeCodeTran/interview/in01/Solution.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leeCodeTran/interview/in02/Solution.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/leeCodeTran/interview/in03/Solution.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/enos/lee01/Solution.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/enos/lee02/ListNode.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/enos/lee03/Solution.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/enos/lee09/Solution.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/enos/test/LesTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/interview/in01/Solution.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/interview/in02/Solution.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/interview/in03/Solution.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/out/production/leeCodeTran/enos/lee01/Solution.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/leeCodeTran/enos/lee02/ListNode.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/leeCodeTran/enos/lee03/Solution.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/leeCodeTran/enos/lee09/Solution.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/leeCodeTran/enos/test/LesTest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/leeCodeTran/interview/in01/Solution.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/leeCodeTran/interview/in02/Solution.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/leeCodeTran/interview/in03/Solution.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/enos/lee01/Solution.java" afterPath="$PROJECT_DIR$/src/enos/lee01/Solution.java" />
+      <change beforePath="$PROJECT_DIR$/src/enos/lee02/ListNode.java" afterPath="$PROJECT_DIR$/src/enos/lee02/ListNode.java" />
+      <change beforePath="$PROJECT_DIR$/src/enos/lee03/Solution.java" afterPath="$PROJECT_DIR$/src/enos/lee03/Solution.java" />
+      <change beforePath="$PROJECT_DIR$/src/enos/lee09/Solution.java" afterPath="$PROJECT_DIR$/src/enos/lee09/Solution.java" />
+      <change beforePath="$PROJECT_DIR$/src/enos/test/LesTest.java" afterPath="$PROJECT_DIR$/src/enos/test/LesTest.java" />
+      <change beforePath="$PROJECT_DIR$/src/interview/in01/Solution.java" afterPath="$PROJECT_DIR$/src/interview/in01/Solution.java" />
+      <change beforePath="$PROJECT_DIR$/src/interview/in02/Solution.java" afterPath="$PROJECT_DIR$/src/interview/in02/Solution.java" />
+      <change beforePath="$PROJECT_DIR$/src/interview/in03/Solution.java" afterPath="$PROJECT_DIR$/src/interview/in03/Solution.java" />
     </list>
     <ignored path="out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -270,12 +265,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576224605105</updated>
-      <workItem from="1576224606599" duration="1557000" />
+      <workItem from="1576224606599" duration="2644000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1557000" />
+    <option name="totallyTimeSpent" value="2644000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
